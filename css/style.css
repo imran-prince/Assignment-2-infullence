@@ -143,8 +143,6 @@ body{
     margin-left: 3px;
 }
 .read{
-    /* display: flex;
-    justify-content: space-around; */
     margin-left:800px;
     margin-top: 30px;
   }
@@ -246,7 +244,7 @@ body{
         width: 100%;
     }
      .read{
-         margin: 10px 140px;
+         margin: 10px 90px;
      }
      .delivery-info{
          width: 90%;align-items: center;
