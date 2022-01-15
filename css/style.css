@@ -183,7 +183,7 @@ body{
     color: whitesmoke;
     text-align: center;
     padding:  20px 0;
-    height: 200px;
+    /* height: 200px; */
     align-items: center; 
 }
  .social-icon a{
@@ -270,10 +270,15 @@ body{
      .footer-info{
          width: 100%;
          text-align: center;
+         
+     }
+     .footer-info h1,p{
+         font-size: 1em;
      }
      .social-icon a{
-         padding: 5px;
+         font-size: 1em;
      }
+      
  }
  /* End Responsive For Mobile */
  /* Start Responsive for Ipad */
