@@ -271,6 +271,9 @@ body{
          width: 100%;
          text-align: center;
      }
+     .social-icon a{
+         padding: 5px;
+     }
  }
  /* End Responsive For Mobile */
  /* Start Responsive for Ipad */
