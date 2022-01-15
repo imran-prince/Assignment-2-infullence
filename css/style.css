@@ -270,6 +270,8 @@ body{
      .footer-info{
          width: 100%;
          text-align: center;
+         height: 250px;
+          
          
      }
      .footer-info h1,p{
